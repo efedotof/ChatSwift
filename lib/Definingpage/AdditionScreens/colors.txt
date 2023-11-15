@@ -1,0 +1,6 @@
+background FBFBFD
+iconbutton 7666FB
+iconButton2 FDFDFD border F7F7F7
+Header Text 828187
+Text Label D9D8DE
+Okeys 41B76D

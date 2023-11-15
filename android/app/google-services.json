@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653593985405",
+    "project_id": "chatmyfriends-ed732",
+    "storage_bucket": "chatmyfriends-ed732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653593985405:android:6d21a93e19ce8677304c14",
+        "android_client_info": {
+          "package_name": "com.efedotov.ChatSwift"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz2f4HmN7gcy3sDecckSJE2Uw1nir4W9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
