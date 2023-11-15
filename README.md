@@ -1,4 +1,4 @@
-# mychats
+# ChatSwift
 
 # ChatSwift - Мобильное Приложение для Приватного Общения
 
